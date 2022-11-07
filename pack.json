@@ -6,9 +6,5 @@
   "manifest_version": 2,
   "music": true,
   "ignore": [],
-  "mappings": {
-  
-  "menu_music"
-  
-  }
+  "mappings": {}
 }
