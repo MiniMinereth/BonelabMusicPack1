@@ -1,10 +1,9 @@
 {
-  "menu_music.mp3": "Pack Name",
-  "Song from Bonelab, close to the Main Menu theme. Composed by Michael Wyckoff": "Use this field to describe the pack.",
+  "name": "menu_music.mp3",
+  "description": "Song from Bonelab, close to the Main Menu theme. Composed by Michael Wyckoff",
   "author": "Miniminereth",
   "version": "v1.0",
   "manifest_version": 2,
   "music": true,
   "ignore": [],
-  "mappings": {}
 }
