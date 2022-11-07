@@ -1,0 +1,14 @@
+{
+  "Bonelab - Stargrid": "Pack Name",
+  "Song from Bonelab, close to the Main Menu theme. Composed by Michael Wyckoff": "Use this field to describe the pack.",
+  "author": "Miniminereth",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {
+  
+  "menu_music"
+  
+  }
+}
